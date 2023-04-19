@@ -20,7 +20,7 @@ This project shows how to scrape and clean financial data from Yahoo Finance usi
 # **BORR Visual**
 ![image](https://user-images.githubusercontent.com/117705408/233172465-9aabecbb-ce54-4168-ab11-a402d6034fb6.png)
 
-& **COST Visual**
+# **COST Visual**
 ![image](https://user-images.githubusercontent.com/117705408/233172512-37976d1f-310a-4573-9f84-bbaab93215c0.png)
 
 # **KOS**
