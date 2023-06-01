@@ -1,5 +1,9 @@
-# Yahoo_Finance_Project
- Scrapping Stock Prices from yahoo Finance
+# **Yahoo Finance Project**
+
+![image](https://github.com/JoeBwonKenobi/Yahoo_Finance_Project/assets/117705408/89e45aa7-86cb-4ebd-9981-52bcb048fee5)
+
+
+ Web Scrapping Stock Prices from Yahoo Finance
 
 
 This project shows how to scrape and clean financial data from Yahoo Finance using various Python libraries. Extracting specific components of the website using information from HTML. There are functions to parse the raw data, select five stocks, and export the data as a JSON file. I then made a simple visualization for the five stocks. The Five stocks I chose are as follows:
