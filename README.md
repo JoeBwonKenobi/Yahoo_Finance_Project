@@ -45,7 +45,7 @@ This project shows how to scrape and clean financial data from Yahoo Finance usi
 
 # **Conclusion**
 
-This information could be exteemely uefull in building a predictive model for any one of these stocks. By changing the ticker,(abbreviated names if the stocks) I can scrape any live stocks price info from Yahoo Finance. For more information please contact the email address below.
+This information could be extremely usefull in building a predictive model for any one of these stocks. By changing the ticker,(abbreviated names if the stocks) I can scrape any live stocks price info from Yahoo Finance. This data can then in-turn be used to make a predicition model for predicting stocks. For more information please contact the email address below.
  davydronez@gmail.com
  
  # **Project Link**
